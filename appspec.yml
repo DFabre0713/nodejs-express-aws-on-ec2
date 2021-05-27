@@ -1,5 +1,5 @@
 version: 0.0
-os: macos
+os: linux
 files:
   - source: /
     destination: /Users/digitalaggregator/Projects/more
